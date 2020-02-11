@@ -1,0 +1,178 @@
+html,
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #f0efef;
+  height: 100%;
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid grey;
+  width: 70%;
+  margin: auto;
+  overflow: hidden;
+}
+.h-100px {
+  height: 100px;
+}
+.h-200px {
+  height: 200px;
+}
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+.display-flex {
+  display: flex;
+}
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+.flex-1 {
+  flex-grow: 1;
+}
+.flex-2 {
+  flex-grow: 2;
+}
+.align-items-center {
+  align-items: center;
+}
+.align-items-right {
+  align-items: right;
+}
+.align-items-left {
+  align-items: left;
+}
+.justify-content-center {
+  justify-content: center;
+}
+.justify-content-flex-end {
+  justify-content: flex-end;
+}
+.justify-content-space-between {
+  justify-content: space-between;
+}
+.order-1 {
+  order: 1;
+}
+.order-2 {
+  order: 2;
+}
+
+.p-0 {
+  padding: 0;
+}
+.pt-4px {
+  padding-top: 4px;
+}
+.pt-10 {
+  padding-top: 10px;
+}
+.pb-10 {
+  padding-bottom: 10px;
+}
+.pr-8px {
+  padding-right: 8px;
+}
+.pr-40 {
+  padding-right: 40px;
+}
+.pl-40 {
+  padding-left: 40px;
+}
+.m-auto {
+  margin: auto;
+}
+.m-2 {
+  margin: 2px;
+}
+.mt-0 {
+  margin-top: 0;
+}
+.mt-20px {
+  margin-top: 20px;
+}
+.mt-50px {
+  margin-top: 50px;
+}
+.mb-20px {
+  margin-bottom: 20px;
+}
+.mb-30px {
+  margin-bottom: 30px;
+}
+.mb-50px {
+  margin-bottom: 50px;
+}
+.mr-20px {
+  margin-right: 20px;
+}
+.mr-50px {
+  margin-right: 50px;
+}
+.ml {
+  margin-left: 20px;
+}
+.ml-50px {
+  margin-left: 50px;
+}
+
+.bg-color-navy {
+  background-color: #002e48;
+}
+.bg-color-yellow {
+  background-color: yellow;
+}
+.bg-color-gray {
+  background-color: grey;
+}
+.color-white {
+  color: white;
+}
+.color-yellow {
+  color: yellow;
+}
+.color-navy {
+  color: #002e48;
+}
+.font-size-24px {
+  font-size: 24px;
+}
+.font-size-40px {
+  font-size: 40px;
+}
+.text-decoration {
+  text-decoration: none;
+}
+.list-decoration {
+  list-style-type: none;
+}
+
+.w-70-p {
+  width: 70%;
+}
+
+.w-30-p {
+  width: 30%;
+}
+
+.extra-bold {
+  font-weight: 900;
+}
+.font-12px {
+  font-size: 12px;
+}
+.border-radius-5px {
+  border-radius: 5px;
+}
+.border-blue {
+  border: midnightblue;
+}
+.float-left {
+  float: left;
+}
+
+.line-height {
+  line-height: 40px;
+}
